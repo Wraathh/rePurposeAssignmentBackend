@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"rePurpose",
+        "MONGO_PASSWORD":"HVqH5q8vOskDALNb",
+        "MONGO_DATABASE":"rePurposeDB"
+    }
+}
